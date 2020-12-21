@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(54, 54, 54);
+}
+
+h1 {
+    color: white;
+    display: center;
+    justify-content: flex-end;
+
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+    margin: 300px;
+    border: 8px solid rgb(255, 255, 255);
+}
+
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: rgb(45, 253, 4);
+    border-radius: 50%;
+    display: inline-flex;
+    margin: 50px;
+}
